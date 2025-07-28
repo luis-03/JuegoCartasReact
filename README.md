@@ -11,4 +11,4 @@ Juego de cartas desarrollado en React con modos automático e interactivo. Inclu
 ## 🚀 Cómo iniciar
 ```bash
 npm install
-npm run dev
+npm start
