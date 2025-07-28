@@ -1,0 +1,18 @@
+.boton-principal {
+  padding: 16px 32px;
+  border-radius: 8px;
+  border: 2px solid #15e76b;
+  background: #19a94a;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0 2px 8px #0002;
+  transition: background 0.15s, border 0.15s;
+}
+.boton-principal:hover,
+.boton-principal:focus {
+  background: #15e76b;
+  border: 2px solid #19a94a;
+  outline: none;
+}
